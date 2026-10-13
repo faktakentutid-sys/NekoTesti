@@ -1,0 +1,6 @@
+{
+  "name": "TestiMu - Formulir & Feed Testimoni Pelanggan",
+  "description": "Platform formulir ulasan dan feed testimoni pelanggan interaktif dengan rating 1-5 bintang, foto profil/avatar, dan penyaringan ulasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
